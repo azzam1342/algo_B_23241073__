@@ -1,0 +1,26 @@
+<mxfile host="app.diagrams.net" modified="2023-10-17T04:11:50.938Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0" etag="ZRu5Y0kJApV7ZsY6UOpc" version="22.0.4" type="github">
+  <diagram name="Page-1" id="MOFV3vKOLyDGz6TQ_8hC">
+    <mxGraphModel dx="1114" dy="602" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Y4L-XODa4uhL3pDYIsGw-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Y4L-XODa4uhL3pDYIsGw-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="452.5" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y4L-XODa4uhL3pDYIsGw-2" value="mulai" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="375" y="140" width="155" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Y4L-XODa4uhL3pDYIsGw-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="Y4L-XODa4uhL3pDYIsGw-4" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="450" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y4L-XODa4uhL3pDYIsGw-4" value="10" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="1" vertex="1">
+          <mxGeometry x="360" y="290" width="180" height="90" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
